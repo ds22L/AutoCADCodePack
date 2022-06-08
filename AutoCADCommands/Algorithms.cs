@@ -128,7 +128,7 @@ namespace Dreambuild.AutoCAD
 
         #endregion
     }
-
+   
     /// <summary>
     /// Various algorithms.
     /// </summary>
